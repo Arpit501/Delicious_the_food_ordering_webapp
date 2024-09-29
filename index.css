@@ -1,0 +1,5 @@
+
+/* importing tailwind css into our index.css file. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
